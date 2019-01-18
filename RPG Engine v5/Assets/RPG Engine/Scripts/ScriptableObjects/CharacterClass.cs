@@ -34,7 +34,7 @@ public class CharacterClass : ScriptableObject
         new CharacterStat(StatTypes.Dexterity, 0),
         new CharacterStat(StatTypes.Defense, 0),
         new CharacterStat(StatTypes.Resistance, 0),
-        new CharacterStat(StatTypes.Luck, 0),
+        new CharacterStat(StatTypes.Luck, 0), 
     };
 
     public WeaponTypes weaponType;
